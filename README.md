@@ -6,7 +6,7 @@ This repository serves as a centralized list of job opportunities, managed throu
 
 | JPID | Position         | Company   | Apply Here | Status |
 |------|------------------|-----------|------------|--------|
-| JP1  | Software Engineer| Google    | [Link]()   | Open   |
+| JP1  | Software Engineer III| Google    | [Link](https://www.google.com/about/careers/applications/jobs/results/74939955737961158-software-engineer-iii-google-cloud)   | Open   |
 
 ---
 
