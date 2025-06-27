@@ -6,7 +6,9 @@ This repository serves as a centralized list of job opportunities, managed throu
 
 | JPID | Position         | Company   | Apply Here | Status |
 |------|------------------|-----------|------------|--------|
-| JP1  | Software Engineer III| Google    | [Link](https://www.google.com/about/careers/applications/jobs/results/74939955737961158-software-engineer-iii-google-cloud)   | Open   |
+| JP1750985014415  | Software Engineer III| Google    | [Link](https://www.google.com/about/careers/applications/jobs/results/74939955737961158-software-engineer-iii-google-cloud)   | Open   |
+
+| JP1750987034831  | Developer | Russel Corp    | [Link](http://alexis.com.au/)   | Open   |
 
 ---
 
